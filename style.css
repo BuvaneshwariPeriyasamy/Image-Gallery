@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+}
+.one-containter{
+    text-align: center;
+}
+.flex-containter
+{
+    display: flex;
+    justify-content: space-around;
+}
+.two-containter{
+    display: flex;
+    justify-content: space-around;
+
+}
+body{background-color: blueviolet;}
